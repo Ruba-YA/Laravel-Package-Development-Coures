@@ -1,0 +1,11 @@
+{
+    "name": "lp/calculator",
+    "description": "This is for learning purpose",
+    "authors": [
+        {
+            "name": "Ruba",
+            "email": "91896958+RubaUser@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
